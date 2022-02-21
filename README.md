@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on **Coffee Shop Project**
 
-- 🌱 I’m currently learning **JS,DSA**
+- 🌱 I’m currently learning **JS, DSA, JAVA**
 
-- 💬 Ask me about **C,HTML,SCSS,CSS,**
+- 💬 Ask me about **C, HTML, SCSS, CSS**
 
 - 📫 How to reach me **subham0422@gmail.com**
 
