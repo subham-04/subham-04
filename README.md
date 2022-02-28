@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Subham Bhadra</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
-<div display="grid">
-<div>
+
+<div >
 - 🔭 I’m currently working on **Coffee Shop Project**
 
 - 🌱 I’m currently learning **JS, DSA, JAVA**
@@ -9,7 +9,7 @@
 - 💬 Ask me about **C, HTML, SCSS, CSS**
 
 - 📫 How to reach me **subham0422@gmail.com**
-  </div><div><img src="Stuck at Home - Monitor.png"/></div></div>
+  </div><div align="right"><img src="Stuck at Home - Monitor.png"/></div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/3583dd9965014b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="3583dd9965014b5" height="30" width="40" /></a>
