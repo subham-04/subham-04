@@ -1,4 +1,4 @@
-<img src="" align="center">
+<img src="background.jpg" align="center" />
 <h1 align="center">Hi 👋, I'm Subham Bhadra</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
 
