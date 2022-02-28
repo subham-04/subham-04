@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Subham Bhadra</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
-<div>
+<div display="grid">
 <div>
 - 🔭 I’m currently working on **Coffee Shop Project**
 
