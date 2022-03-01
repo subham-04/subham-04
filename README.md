@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Subham Bhadra</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
 
-  <img src="undraw_programming_re_kg9v.svg" align="right" height="1500" />
+  <img src="undraw_programming_re_kg9v.svg" align="right" height="500" />
   
 - 🔭 I’m currently working on **Coffee Shop Project**
 
