@@ -12,6 +12,20 @@
 I am intensely interested in Web-Development (currently Frontend Development), UX design, Cybersecurity, AI, and ML. I'm a Designer, Programmer & Developer for Developing, Solving & Designing Real-World Problems. I can help you with HTML, CSS, SASS(SCSS), C, C++, Javascript, Python, and Java. Also, I am an open-source enthusiast.
 
 Feel free to go through my profile and approach me if you need any help, I will be glad to help you.
+
+<br>
+
+## 🌐 Socials:
+<br>
+<div align="center">
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/subham.bhadra.1276487) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/subham0422) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subham-bhadra-54b8921b2) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/subham0422) 
+
+ <img src="https://github.com/subham-04/subham-04/blob/main/f54b89ee29fef7a07a360250edaae3d1.gif" height="350" />
+
+
+
+</div>
  
 <div>
 
@@ -32,19 +46,7 @@ Feel free to go through my profile and approach me if you need any help, I will 
 
 <br>
 
-<br>
 
-## 🌐 Socials:
-<br>
-<div align="center">
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/subham.bhadra.1276487) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/subham0422) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subham-bhadra-54b8921b2) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/subham0422) 
-
- <img src="https://github.com/subham-04/subham-04/blob/main/f54b89ee29fef7a07a360250edaae3d1.gif" height="350" />
-
-
-
-</div>
 <br>
 
 # 💻 Tech Stack:
