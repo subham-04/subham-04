@@ -4,7 +4,8 @@
 
 # 💫 About Me:
 
-
+<img src="https://github.com/subham-04/subham-04/blob/main/3f76e06de27c832f46cbcd209326890b.gif" align="right"  />
+  
   
  <br>
  
@@ -12,8 +13,7 @@
 
 <br>
 
-<img src="https://github.com/subham-04/subham-04/blob/main/3f76e06de27c832f46cbcd209326890b.gif" align="right"  />
-  
+
 
 <br>
 
