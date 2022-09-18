@@ -47,11 +47,18 @@
  
 <br>
 
-[![Subham's GitHub stats](https://github-readme-stats.vercel.app/api?username=subham-04)](https://github.com/subham-04/github-readme-stats)
+<div align="center">
+<img src="https://activity-graph.herokuapp.com/graph?username=Randrita&bg_color=0d0c0d&color=e137d6&line=5daddf&point=99eb1e&area=false&hide_border=false">
+</div>
 
 <br>
 
 
 ### ✍️ Dev Quote
+
+<div align="center">
+ 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
 
