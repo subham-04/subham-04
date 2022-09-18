@@ -2,6 +2,13 @@
  <img src="https://github.com/subham-04/subham-04/blob/main/image_processing20200722-16369-1r6wfg9.gif"  />
 </div>
 
+
+<div align="center">
+# Hi, I'm Subham! 👋
+<div>
+
+
+
 # 💫 About Me:
 
 <img src="https://github.com/subham-04/subham-04/blob/main/3f76e06de27c832f46cbcd209326890b.gif" align="right" height="250" />
@@ -9,7 +16,7 @@
   
  <br>
  
-🔭 I’m currently working on Lofi-Tube Project<br><br>🌱 I’m currently learning JS, DSA, JAVA<br><br>⚡ Fun fact: I use Tabs on weekends because there is not enough Space<br><br>📫 How to reach me subham0422@gmail.com
+🔭 I’m currently working on Lofi-Tube Project<br><br>🚀 I’m currently learning JS, DSA, JAVA<br><br>⚡ Fun fact: I use Tabs on weekends because there is not enough Space<br><br>📫 How to reach me subham0422@gmail.com
 
 <br>
 
