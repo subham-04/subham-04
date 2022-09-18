@@ -2,8 +2,14 @@
 
  <img src="undraw_programming_re_kg9v.svg" align="right" height="250" />
   
+ <br>
+ 
 🔭 I’m currently working on Lofi-Tube Project<br><br>🌱 I’m currently learning JS, DSA, JAVA<br><br>⚡ Fun fact: I use Tabs on weekends because there is not enough Space<br><br>📫 How to reach me subham0422@gmail.com
 
+
+<br>
+
+<br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/subham.bhadra.1276487) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/subham0422) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subham-bhadra-54b8921b2) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/subham0422) 
@@ -18,5 +24,3 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=subham-04&icon=0&color=0)](https://visitcount.itsvg.in)
