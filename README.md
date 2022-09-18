@@ -38,9 +38,11 @@
 <div align="center">
  
 ![](https://github-readme-stats.vercel.app/api?username=subham-04&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true)<br/>
+
+<br>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=subham-04&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=subham-04&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
- 
+
  </div>
 <br>
 
