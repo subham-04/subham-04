@@ -1,4 +1,7 @@
 # 💫 About Me:
+
+ <img src="undraw_programming_re_kg9v.svg" align="right" height="250" />
+  
 🔭 I’m currently working on Lofi-Tube Project<br><br>🌱 I’m currently learning JS, DSA, JAVA<br><br>⚡ Fun fact: I use Tabs on weekends because there is not enough Space<br><br>📫 How to reach me subham0422@gmail.com
 
 
