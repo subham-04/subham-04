@@ -1,10 +1,10 @@
  <div align="center">
- <img src="https://github.com/subham-04/subham-04/blob/main/image_processing20200722-16369-1r6wfg9.gif" />
+ <img src="https://github.com/subham-04/subham-04/blob/main/image_processing20200722-16369-1r6wfg9.gif" height="450" />
 </div>
 
 # 💫 About Me:
 
- <img src="https://github.com/subham-04/subham-04/blob/main/850477fed08bfe98598082bcd309ce70.gif" align="right" height="250" />
+ <img src=https://github.com/subham-04/subham-04/blob/main/3f76e06de27c832f46cbcd209326890b.gif" align="right" height="250" />
   
  <br>
  
