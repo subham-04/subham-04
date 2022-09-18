@@ -5,7 +5,8 @@
 
 <div align="center">
  
-# Hi, I'm Subham! 👋
+# Hi, I'm Subham! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+
  
   I'm currently a pre-final-year student at B.P. Poddar Institute of Management and Technology, Kolkata, and pursuing an undergraduate degree in Information Technology.
 
