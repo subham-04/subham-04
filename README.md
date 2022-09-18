@@ -15,7 +15,6 @@ Feel free to go through my profile and approach me if you need any help, I will 
 
 <br>
 
-## 🌐 Socials:
 <br>
 <div align="center">
 
