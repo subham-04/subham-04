@@ -7,6 +7,12 @@
  
 # Hi, I'm Subham! 👋
  
+  I'm currently a pre-final-year student at B.P. Poddar Institute of Management and Technology, Kolkata, and pursuing an undergraduate degree in Information Technology.
+
+I am intensely interested in Web-Development (currently Frontend Development), UX design, Cybersecurity, AI, and ML. I'm a Designer, Programmer & Developer for Developing, Solving & Designing Real-World Problems. I can help you with HTML, CSS, SASS(SCSS), C, C++, Javascript, Python, and Java. Also, I am an open-source enthusiast.
+
+Feel free to go through my profile and approach me if you need any help, I will be glad to help you.
+ 
 <div>
 
 
