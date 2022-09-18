@@ -1,4 +1,6 @@
- <img src="https://github.com/subham-04/subham-04/blob/main/91fc549c130f969b61afa9065ad2132d.gif" align="center"  />
+ <div align="center">
+ <img src="https://github.com/subham-04/subham-04/blob/main/image_processing20200722-16369-1r6wfg9.gif" />
+</div>
 
 # 💫 About Me:
 
