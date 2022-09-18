@@ -31,13 +31,13 @@
 
 # 📊 GitHub Stats:
 
-<p align="center">
+<div align="center">
  
 ![](https://github-readme-stats.vercel.app/api?username=subham-04&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=subham-04&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=subham-04&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
  
- </p>
+ </div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
