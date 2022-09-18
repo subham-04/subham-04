@@ -47,10 +47,6 @@
  
 <br>
 
-<div align="center">
-<img src="https://activity-graph.herokuapp.com/graph?username=Randrita&bg_color=0d0c0d&color=e137d6&line=5daddf&point=99eb1e&area=false&hide_border=false">
-</div>
-
 <br>
 
 
