@@ -44,6 +44,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=subham-04&theme=highcontrast&hide_border=false)<br/>
 
  </div>
+ 
+<br>
+
+[![Subham's GitHub stats](https://github-readme-stats.vercel.app/api?username=subham-04)](https://github.com/subham-04/github-readme-stats)
+
 <br>
 
 
