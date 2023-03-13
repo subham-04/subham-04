@@ -17,7 +17,7 @@
 
 I am intensely interested in Web-Development (currently Frontend Development), UX design, Cybersecurity, AI, and ML. I'm a Designer, Programmer & Developer for Developing, Solving & Designing Real-World Problems. I can help you with HTML, CSS, SASS(SCSS), Javascript, and Java. Also, I am an open-source enthusiast.
 
-Feel free to go through my profile and approach me if you need any help, I will be glad to help you.
+And let me tell you, I'm not just a tech enthusiast - I'm an open-source evangelist! So if you need any help with your projects, feel free to slide into my DMs. I'm always ready to lend a helping hand to my fellow web warriors. Let's make the internet a more beautiful, secure, and user-friendly place, together!
 
 <br>
 <br>
