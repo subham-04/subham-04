@@ -13,7 +13,7 @@
 # Hi, I'm Subham! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
  
- Hey there, fellow humans of the internet! I'm a pre-final-year IT student at B.P. Poddar Institute of Management and Technology, Kolkata, and I'm deeply passionate about Web-Development, UX design, and Cybersecurity. As a Designer, Programmer & Developer, I love using my skills to tackle real-world problems and create elegant solutions.
+ Hey there, fellow humans of the internet! I'm a pre-final-year IT student at B.P. Poddar Institute of Management and Technology, Kolkata, and I'm deeply passionate about Web-Development, UX design, and Cybersecurity. I'm a triple threat as a Designer, Programmer & Developer, and love using my skills to solve real-world problems. 
 
 I am intensely interested in Web-Development (currently Frontend Development), UX design, Cybersecurity, AI, and ML. I'm a Designer, Programmer & Developer for Developing, Solving & Designing Real-World Problems. I can help you with HTML, CSS, SASS(SCSS), Javascript, and Java. Also, I am an open-source enthusiast.
 
