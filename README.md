@@ -15,7 +15,7 @@
  
  Hey there, fellow humans of the internet! I'm a pre-final-year IT student at B.P. Poddar Institute of Management and Technology, Kolkata, and I'm deeply passionate about Web-Development, UX design, and Cybersecurity. I'm a triple threat as a Designer, Programmer & Developer, and love using my skills to solve real-world problems. 
 
-When I'm not saving the world one line of code at a time, you can usually find me tinkering with open-source projects or brainstorming new ways to enhance user experiences. I'm always up for a good laugh or a clever pun.
+When I'm not saving the world one line of code at a time, you can usually find me tinkering with open-source projects or brainstorming new ways to enhance user experiences. And I'm always up for a good laugh or a clever pun.
 
 And let me tell you, I'm not just a tech enthusiast - I'm an open-source evangelist! So if you need any help with your projects, feel free to slide into my DMs. I'm always ready to lend a helping hand to my fellow web warriors. Let's make the internet a more beautiful, secure, and user-friendly place, together!
 
